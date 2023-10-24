@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = 'bundler-rbs-collection'
-  spec.version = '0.0.1'
+  spec.version = '0.1.0'
   spec.authors = ['Yoshiyuki Hirano']
   spec.email = ['yhirano@me.com']
   spec.licenses = ['MIT']

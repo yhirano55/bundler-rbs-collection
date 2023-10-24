@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bundler-rbs-collection (0.0.1)
+    bundler-rbs-collection (0.1.0)
       bundler (>= 2.0)
 
 GEM
