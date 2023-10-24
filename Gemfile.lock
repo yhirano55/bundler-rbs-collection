@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    bundler-rbs-collection (0.0.1)
+      bundler (>= 2.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+    rbs (1.8.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  bundler-rbs-collection!
+  rake (~> 13.0)
+  rbs
+
+BUNDLED WITH
+   2.3.26
