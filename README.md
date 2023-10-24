@@ -26,13 +26,6 @@ If it's your only plugin, remove the plugin file from whichever directory you in
 
 If you have other plugins, edit `.bundle/plugin/index` and remove relevant entries.
 
-## Usage
-
-This plugin requires these environment variables:
-
-* `BUNDLER_RBS_COLLECTION_UPDATE`: Execute command `bundle exec rbs collection update` after `bundle`.
-* `BUNDLER_RBS_COLLECTION_CLEAN`: Execute command `bundle exec rbs collection clean` after `bundle`.
-
 ## License
 
 MIT License
